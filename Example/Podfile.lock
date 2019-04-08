@@ -1,0 +1,16 @@
+PODS:
+  - AsyncImageLoader (0.1.0)
+
+DEPENDENCIES:
+  - AsyncImageLoader (from `../`)
+
+EXTERNAL SOURCES:
+  AsyncImageLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AsyncImageLoader: 0612cb319aae4c3f750ceaf14627a5393faa3fd7
+
+PODFILE CHECKSUM: 60760b39b00d17c000f2674a210066a96936612a
+
+COCOAPODS: 1.5.3
