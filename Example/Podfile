@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AsyncImageLoader_Tests' do
+  pod 'AsyncImageLoader', :path => '../'
+  
+  
+end
