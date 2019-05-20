@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AsyncImageLoader'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Dispatch load operation asynchronously.'
 
 # This description is used to generate tags and improve search results.
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Dispatch load operation asynchronously and exclusively.
                        DESC
 
-  s.homepage         = 'https://github.com/Akira/AsyncImageLoader'
+  s.homepage         = 'https://github.com/0x0c/AsyncImageLoader'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Akira' => 'akira.matsuda@me.com' }
